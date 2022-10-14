@@ -260,3 +260,10 @@
 .main__btn:hover::after {
   width: 100%;
 }
+.main__img--container {
+  text-align: center;
+}
+#main__img {
+  height: auto;
+  width: 80%;
+}
