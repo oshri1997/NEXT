@@ -1,3 +1,4 @@
 # NEXT
 https://nextgen-moalem.netlify.app/
-Preview:![Screenshot_5](https://user-images.githubusercontent.com/69770110/197012106-1287c5ef-1a51-460b-811c-8ebf9f82a849.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/69770110/197012271-c37d23f1-7525-4db1-9f9e-9cb0ceeb0419.png)
