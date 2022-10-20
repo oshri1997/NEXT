@@ -1,4 +1,4 @@
 # NEXT
 https://nextgen-moalem.netlify.app/
 Preview:
-![alt text](https://prnt.sc/DiaIQBmtblFQ)
+<img src="https://prnt.sc/DiaIQBmtblFQ" alt="preview" title="preview">
